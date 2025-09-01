@@ -1,10 +1,30 @@
 # 📊 Trendy Cart Annual Report  
 
 ## 📝 Project Overview  
-This project analyzes the **annual performance of Trendy Cart**, focusing on sales, customer behavior, and product performance. The goal is to identify trends, top-performing categories, and key business insights that can help optimize decision-making.  
+This project analyzes the **annual performance of Trendy Cart**, focusing on sales, customer behavior, and product performance.The  Store wants to create an annual sales report for 2024. So that, the owner of the  store can understand their customers and grow more sales in 2024 & 2025.
 
+Dataset used
 ---
+Questions (KPIs)
+Compare the sales and orders using single chart.
 
+Which month got the highest sales and orders?
+
+Who purchased more - Men or Women?
+
+What are different order status in 2022?
+
+List top 10 states contributingto the sales?
+
+Relation between age and gender based on number of orders.
+
+Which Channel is contributing maximum to the sales?
+
+Highest selling category?
+
+Percentage of Total Orders delivered
+
+Dashboard Interaction View Dashboard
 ## 🎯 Objectives  
 - Track **monthly and annual sales performance**  
 - Identify **top-selling products and categories**  
